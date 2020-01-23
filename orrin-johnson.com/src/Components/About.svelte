@@ -14,6 +14,7 @@
         <div class="row section-body">
             <div class="col-md-6">
                 <h3 class="about-body">{BODY}</h3>
+                <img src="logo-2.png" alt="">
             </div>
         </div>
     </div>
@@ -35,13 +36,17 @@
     .heading {
         font-size: 60px;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-top: 300px;
     }
 
     #about {
         font-size: 30px;
     }
 
-
+    img {
+        width: 60px;
+        height: 60px;
+    }
 
 </style>
 

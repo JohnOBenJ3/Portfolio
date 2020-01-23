@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1>{HEADING}</h1>                
+                <h1 class="title">{HEADING}</h1>                
             </div>
         </div>
     </div>
@@ -29,6 +29,10 @@
         font-weight: 600;
         margin-top: 100px;
         text-transform: uppercase;
+    }
+
+    .title {
+        padding-bottom: 300px;
     }
 
 </style>

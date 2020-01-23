@@ -5,6 +5,8 @@
 	import About from "./Components/About.svelte";
 	import Skills from "./Components/Skills.svelte";
 	import Projects from "./Components/Projects.svelte";
+	import Social from "./Components/Social.svelte";
+	import Footer from "./Components/Footer.svelte";
 
 </script>
 
@@ -13,3 +15,5 @@
 <Skills skillsData={DATA.SKILLS_DATA} />
 <About aboutData={DATA.ABOUT_DATA} />
 <Projects projectData={DATA.PROJECT_DATA} />
+<Social socialData={DATA.SOCIAL_DATA} />
+<Footer footerData={DATA.FOOTER_DATA} />

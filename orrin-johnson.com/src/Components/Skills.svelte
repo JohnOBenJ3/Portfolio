@@ -10,7 +10,8 @@
 
 <section id="skills" class="section secondary-background-color light-color">
     <div class="container text-center">
-        <h2 class="title">{HEADING}</h2>
+    <img src="logo-2.png" alt="">
+        <h2 class="title"><em>{HEADING}</em></h2>
     </div>
     <div class="skill-icons">
         <ul class="column">
@@ -50,11 +51,19 @@
 
     }
 
+    img {
+        width: 60px;
+        height: 60px;
+        float: top;
+        position: relative;
+        top: 150px;
+    }
+
 
     .title {
         font-size: 50px;
-        padding-top: 150px;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-top: 170px;
+        font-family: monospace;
 
     }
 

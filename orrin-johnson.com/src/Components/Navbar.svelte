@@ -8,7 +8,7 @@
 
 <section id="nav-bar">
     <nav class="navbar main-background-color navbar-expand-md navbar-dark">
-        <img src="images/logo.png" alt="" class="logo">
+        <img src="logo.png" alt="" class="logo">
         <button
         class="navbar-toggler"
         type="button"
@@ -56,10 +56,13 @@
         float: right;
         text-align: left;
         top: 10px;
+        font-size: 20px;
     }
 
     .logo {
         padding: 0 20px;
     }
+
+
 
 </style>
