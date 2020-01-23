@@ -12,8 +12,8 @@
 
 <Navbar navlist={DATA.NAVBAR_DATA} header={DATA.HEADER} />
 <Banner bannerData={DATA.BANNER_DATA} />
-<Projects projectData={DATA.PROJECT_DATA} />
 <About aboutData={DATA.ABOUT_DATA} />
 <Skills skillsData={DATA.SKILLS_DATA} />
+<Projects projectData={DATA.PROJECT_DATA} />
 <Social socialData={DATA.SOCIAL_DATA} />
 <Footer footerData={DATA.FOOTER_DATA} />

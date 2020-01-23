@@ -2,9 +2,9 @@ const HEADER = "Orrin Johnson";
 
 const NAVBAR_DATA = [
     {id: 1, url: "/", label: "Home"},
-    {id: 2, url: "#projects", label: "Projects"},
-    {id: 3, url: "#about", label: "About"},
-    {id: 4, url: "#skills", label: "Skills"},
+    {id: 2, url: "#about", label: "About"},
+    {id: 3, url: "#skills", label: "Skills"},
+    {id: 4, url: "#projects", label: "Projects"},
     {id: 5, url: "#social-media", label: "Social-Media"},
     {id: 6, url: "#contact", label: "Contact"}
 
