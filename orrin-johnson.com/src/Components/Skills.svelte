@@ -15,6 +15,7 @@
     </div>
     <div class="skill-icons">
         <ul class="column">
+            <li><i class="cib-svelte" id="svelte"></i></li>
             <li><i class="devicon-javascript-plain colored" id="javascript"></i></li>
             <li><i class="devicon-html5-plain-wordmark" id="html"></i></li>
             <li><i class="devicon-nodejs-plain-wordmark colored" id="node"></i></li>
@@ -82,6 +83,11 @@
         font-size: 120px;
         padding-left: 20px;
 
+    }
+
+    #svelte {
+        font-size: 120px;
+        padding-left: 20px
     }
 
     #node {
